@@ -1,2 +1,2 @@
-# CSCE-4205
+# CSCE4205
 Introduction to Machine Learning
